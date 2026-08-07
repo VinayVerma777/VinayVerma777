@@ -49,14 +49,13 @@
 
 # 💻 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,bootstrap,react,angular,git,github"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,ts,bootstrap,blazor,react,angular,git,github,postman,docker,azure,mssql,vscode&perline=7" />
 </p>
 
 ### Backend
 
+* C#
 * ASP.NET Core MVC
 * ASP.NET Core Web API
 * Entity Framework Core
@@ -76,6 +75,22 @@
 ### Database
 
 * SQL Server
+
+* ### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* Bootstrap 5
+* React
+* Angular
+* Blazor
+* Visual Studio
+* VS Code
+* Git
+* GitHub
+ 
 
 ---
 

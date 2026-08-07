@@ -1,4 +1,4 @@
-![logo](https://github.com/VinayVerma777/VinayVerma777/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Vinay Verma</h1>
 <h3 align="center">.NET Core Full Stack Developer | ASP.NET Core | Web API | SQL Server | System Design | Solid Principles </h3>
 

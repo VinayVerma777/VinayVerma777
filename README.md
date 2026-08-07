@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Verma</h1>
-<h3 align="center">.NET Full Stack Developer | ASP.NET Core | Web API | SQL Server | Clean Architecture</h3>
+<h3 align="center">.NET Core Full Stack Developer | ASP.NET Core | Web API | SQL Server | System Design | Solid Principles </h3>
 
 <p align="center">
   <a href="https://github.com/VinayVerma777">
@@ -16,10 +16,10 @@
 ## 🚀 About Me
 
 💼 **Current Work:**
-**Project:** Employee Management System
+**Project:** Smart Farm Management System
 **Repository:** https://github.com/VinayVerma777
 
-* 🔭 I’m currently working on **ASP.NET Core Web API Projects**
+* 🔭 I’m currently working on **ASP.NET Core Web API, ASP.NET MVC, Entity Framework Core, Dapper, SQL Server, Clean Architecture, SOLID Principles,Reactjs  Projects**
 * 🌱 I’m currently learning **Clean Architecture, DDD, Microservices & Azure**
 * 👯 I’m looking to collaborate on **Open Source .NET Projects**
 * 🤔 I’m looking for help with **Cloud Deployment & DevOps**
@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:vinayvermasrmu77@gmail.com">
+<a href="vinayvermasrmu77@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>

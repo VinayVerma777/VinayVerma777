@@ -108,18 +108,11 @@
 
 | Project                         | Technology                                         |
 | ------------------------------- | -------------------------------------------------- |
-| 🚀 Employee Management System   | web development and guide you through the creation of a comprehensive Employees Management System using ASP.NET Core MVC, EF Core, SQL Server, and AdminLTE. we'll cover everything you need to know to build a robust system, from performing CRUD operations to managing leave applications, employee details, system settings, and user management with ASP.NET Identity. Get ready to explore advanced features like multi-role assignment and audit trails, empowering you to create efficient and scalable applications.    |
-| 🌾 Smart Farm Management System |  Solution Architecture, Domain-Driven Design (DDD), Clean Architecture, Database Design, Entity Relationship Planning (ERD), Core Modules, Farm Management Concepts, Agriculture ERP Planning, Multi-Tenant Architecture, Security Strategy, API Design, Project Structure
+| 🚀 Employee Management System   | web development and guide you through the creation of a comprehensive Employees Management System using ASP.NET Core MVC, EF Core, SQL Server, and AdminLTE. we'll cover everything you need to know to build a robust system, from performing CRUD operations to managing leave applications, employee details, system settings, and user management with ASP.NET Identity. Get ready to explore advanced features like multi-role assignment and audit trails, empowering you to create efficient and scalable applications.             |
+| 🌾 Smart Farm Management System  |  Solution Architecture, Domain-Driven Design (DDD), Clean Architecture, Database Design, Entity Relationship Planning (ERD), Core Modules, Farm Management Concepts, Agriculture ERP Planning, Multi-Tenant Architecture, Security Strategy, API Design, Project Structure ,Tech:- ASP.NET Core .NET 10, Entity Framework Core 10, SQL Server, Dapper, MediatR (CQRS), FluentValidation, ASP.NET Identity, JWT Authentication, React, TypeScript, Material UI, .NET MAUI, SignalR, Hangfire, Docker, Azure, GitHub Actions                      |
 
-Tech:- ASP.NET Core .NET 10, Entity Framework Core 10, SQL Server, Dapper, MediatR (CQRS), FluentValidation, ASP.NET Identity, JWT Authentication, React, TypeScript, Material UI, .NET MAUI, SignalR, Hangfire, Docker, Azure, GitHub Actions
 
-Planned Modules:- Authentication & Authorization, Farmer Management, Farm Management, Crop Management, Livestock Management, Greenhouse Management, Inventory Management, Procurement, Sales, Warehouse Management, Equipment Management, Employee Management,GIS & Maps, Reporting & Dashboards, AI-Powered Farm Insights, Mobile App with .NET MAUI          |
-| 🏥 Documents Management System (DMS)   | ASP.NET Core MVC, EF Core, SQL Server  This series will teach you how to: Upload documents
-, Store file metadata in SQL Server,Download documents securely, Delete documents properly,Organize files using folders, Implement clean architecture, Apply best practices for production systems with ASP.NET Core, Entity Framework Core, SQL Server, File Server / Local Storage, Clean Architecture Principles        |
-| 🏥  Hospital Management System && Smart Hospital & Research Center  | Modules:OPD / IPD Management,Billing & Payments,Patient,Registration & Search,Appointments Scheduler,Pathology / Radiology,Pharmacy System,Ambulance & Blood Bank,Birth & Death Records,HR, Staff Roster & ID Cards,Financial Reports & Inventory,Front CMS & Live Consultations   Tech:
 
-ASP.NET Core & Blazor- MUD BLAZOR,EF Core (Entity Framework),SQL Server Database,Clean Architecture & UI Components          |
-| 🏫 School Management System     | ASP.NET Core Web API, Razor Pages, MVC, SQL Server |
 
 ---
 

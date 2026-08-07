@@ -56,22 +56,9 @@
 
 ### Backend
 
-* C#
-* ASP.NET Core MVC
-* ASP.NET Core Web API
-* Entity Framework Core
-* Dapper
-* Repository Pattern
-* Unit of Work
-* JWT Authentication
-* Clean Architecture
-* Onion Architecture
-* SOLID Principles
-* Microservices
-* Domain Driven Design (DDD)
-* AutoMapper
-* DTO
-* FluentValidation
+* C# * ASP.NET Core MVC * ASP.NET Core Web API * Entity Framework Core * Dapper * Repository Pattern * Unit of Work
+* JWT Authentication * Clean Architecture * Onion Architecture * SOLID Principles * Microservices * Domain Driven Design (DDD)
+* AutoMapper * DTO * FluentValidation
 
 ### Database
 
@@ -79,29 +66,12 @@
 
 * ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
-* Bootstrap 5
-* React
-* Angular
-* Blazor
+* HTML5 * CSS3 * JavaScript (ES6+) * TypeScript * Bootstrap 5 * React * Angular * Blazor.
 
 
 * ### Tools
 
-* Visual Studio 2022
-* Visual Studio Code
-* Postman
-*  EchoAPI
-* Git
-* GitHub
-* Docker
-* Azure
-
- 
-
+* Visual Studio 2022 * Visual Studio Code * Postman *  EchoAPI * Git * GitHub * Docker * Azure.
 ---
 
 # 📌 Featured Projects
@@ -112,7 +82,8 @@
 | 🌾 Smart Farm Management System  |  Solution Architecture, Domain-Driven Design (DDD), Clean Architecture, Database Design, Entity Relationship Planning (ERD), Core Modules, Farm Management Concepts, Agriculture ERP Planning, Multi-Tenant Architecture, Security Strategy, API Design, Project Structure ,Tech:- ASP.NET Core .NET 10, Entity Framework Core 10, SQL Server, Dapper, MediatR (CQRS), FluentValidation, ASP.NET Identity, JWT Authentication, React, TypeScript, Material UI, .NET MAUI, SignalR, Hangfire, Docker, Azure, GitHub Actions, Planned Modules:- Authentication & Authorization, Farmer Management, Farm Management, Crop Management, Livestock Management, Greenhouse Management, Inventory Management, Procurement, Sales, Warehouse Management, Equipment Management, Employee Management,GIS & Maps, Reporting & Dashboards, AI-Powered Farm Insights, Mobile App with .NET MAUI.|
 | 🏥 Documents Management System (DMS)| ASP.NET Core MVC, EF Core, SQL Server, Upload documents, Store file metadata in SQL Server,Download documents securely,Delete documents properly,Organize files using folders, Implement clean architecture, Apply best practices for production systems with ASP.NET Core, Entity Framework Core, SQL Server, File Server / Local Storage, Clean Architecture Principles.                          |
 | 🏥 Hospital Management System && Smart Hospital & Research Center| ,Modules:OPD /IPManagement,Billing,Payments,Patient,Registration & Search,Appointments Scheduler,Pathology / Radiology,Pharmacy System,Ambulance & Blood Bank,Birth & Death Records,HR, Staff Roster & ID Cards,Financial Reports & Inventory,Front CMS & Live Consultations ,Tech: ASP.NET Core & Blazor- MUD BLAZOR,EF Core (Entity,Framework),SQL Server Database,Clean Architecture & UI Components.|
-| 🏫 School Management System     | ASP.NET Core Web API, Razor Pages, MVC, SQL Server | 
+| 🏫 School Management System     | A comprehensive School Management System developed using ASP.NET Core MVC,ASP.NET Core Web API, Razor Pages, and SQL Server.The system streamlines school administration by managing students, teachers, classes, attendance, examinations, fees, and reports through a secure and user-friendly interface.Modules-: Student Management, Teacher Management, Class & Section Management, Subject Management,Student Admission,Attendance Management,Fee Management,Exam & Result Management,Dashboard & Reports, Authentication & Authorization, Role-Based Access (Admin, Teacher, Student), Notice Board, Document Management,Technologies Used -:ASP.NET Core MVC,ASP.NET Core Web API,Razor Pages,C#,Entity Framework Core,SQL Server, HTML5, CSS3 Bootstrap, JavaScript, jQuery
+,LINQ Identity Authentication.     |
                                       
 ---
 
@@ -122,14 +93,13 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinayVerma777&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayVerma777&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=VinayVerma777&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayVerma777&theme=tokyonight"/>
 </p>
-
 ---
 
 # 🏆 GitHub Trophies
@@ -137,7 +107,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=VinayVerma777&theme=tokyonight&row=1&column=7"/>
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -155,6 +124,5 @@
 </p>
 
 ---
-
 <h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 

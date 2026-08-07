@@ -50,7 +50,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,js,ts,bootstrap,blazor,react,angular,git,github,postman,docker,azure,mssql,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,blazor,react,angular,git,github,postman,docker,azure,mssql,visualstudio,vscode"/>
 </p>
 
 ### Backend

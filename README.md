@@ -51,6 +51,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,blazor,react,angular,git,github,postman,docker,azure,mssql,visualstudio,vscode"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="48" height="48" alt="Blazor" />
 </p>
 
 ### Backend
@@ -86,10 +87,19 @@
 * React
 * Angular
 * Blazor
-* Visual Studio
-* VS Code
+
+
+* ### Tools
+
+* Visual Studio 2022
+* Visual Studio Code
+* Postman
+*  EchoAPI
 * Git
 * GitHub
+* Docker
+* Azure
+
  
 
 ---
